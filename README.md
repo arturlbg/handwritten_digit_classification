@@ -17,6 +17,10 @@ Machine Learning algorithms used:
 **These algorithms were also developed**
 
 Steps:
+
 1 - Sample Size Reduction using vertical symmetry, horizontal symmetry and intensity
+
 2 - Multi-class Classification (One vs All)
+
+3 - Weight Decay Heuristic
 
