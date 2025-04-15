@@ -1,4 +1,4 @@
-# Handwritten Digit Classificaiton
+# Handwritten Digit Classification
 
 **This project was developed for the Machine Learning course. Study only!**
 
